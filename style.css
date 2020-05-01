@@ -77,5 +77,6 @@ a {
   text-decoration: none;
 }
 a:hover {
-  font-size: 24px;
+  background: #222;
+  color: white;
 }
